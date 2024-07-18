@@ -1,0 +1,3 @@
+/Users/georgeborsato/Documents/c++/classes/build/CMakeFiles/main.dir
+/Users/georgeborsato/Documents/c++/classes/build/CMakeFiles/edit_cache.dir
+/Users/georgeborsato/Documents/c++/classes/build/CMakeFiles/rebuild_cache.dir
