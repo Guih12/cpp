@@ -32,6 +32,10 @@ Pair<int, int> sumTarget(MyVector<int>& vector, int target) {
   return std::make_pair(0, 0);
 }
 
+MyVector<int> returnValues() {
+  return {0 ,1};
+}
+
 int main() {
   // Vector v(10);
 
@@ -74,4 +78,6 @@ int main() {
   // int sum = v.sumValue(20);
 
   // cout << sum << endl;
+
+  cout << returnValues()[0] << endl;
 }
